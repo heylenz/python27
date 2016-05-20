@@ -1,4 +1,4 @@
-#!D:\yinhailin\pyvfx-x\python\python.exe
+#!C:\tools\codes\pyvfx-x\Python27\python.exe
 # EASY-INSTALL-ENTRY-SCRIPT: 'setuptools==18.1','console_scripts','easy_install'
 __requires__ = 'setuptools==18.1'
 import sys
